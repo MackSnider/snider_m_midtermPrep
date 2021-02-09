@@ -8,7 +8,6 @@ body
 p
 {
 	margin: auto;
-	line-height: 100px;
 	text-align: center;
 }
 
@@ -42,7 +41,6 @@ p
 
 #loginInfo
 {
-	display: flex;
 	width: 204px;
 	height: 24px;
 	background-color: #0f0e15;
@@ -163,3 +161,66 @@ p
 	background-color: #0f0e15;
 	margin-bottom: 25px;
 }
+
+/* PAGE TWO */
+
+#historyText
+{
+	margin: auto;
+	width: 970px;
+	height: 196px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+}
+
+#middleImage
+{
+	height: 462px;
+	width: 462px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+	margin-right: auto;
+	margin-left: 25px;
+	float: left;
+}
+
+#textTop
+{
+	height: 221px;
+	width: 470px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+	float: right;
+	margin-right: 25px;
+}
+
+#textBottom
+{
+	height: 221px;
+	width: 470px;
+	background-color: #0f0e15;
+	margin-top: 20px;
+	float: right;
+	margin-right: 25px;
+}
+
+#leftImage
+{
+	height: 555px;
+	width: 383px;
+	background-color: #0f0e15;
+	margin-top: 50px;
+	float: left;
+	margin-left: 50px;
+}
+
+#rightImage
+{
+	height: 555px;
+	width: 383px;
+	background-color: #0f0e15;
+	margin-top: 50px;
+	float: right;
+	margin-right: 50px;
+}
+
