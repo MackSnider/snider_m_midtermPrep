@@ -1,0 +1,165 @@
+body 
+{
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	color: #fff;
+} 
+
+p
+{
+	margin: auto;
+	line-height: 100px;
+	text-align: center;
+}
+
+.hidden
+{
+	display: none;
+}
+
+#container 
+{
+	margin: 0 auto;
+	width: 1000px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#mainHeader
+{
+	margin-top: 25px;
+	padding-bottom: 25px;
+	display: flex;
+}
+
+#mainNav
+{
+	width: 567px;
+	height: 24px;
+	background-color: #0f0e15;
+	margin-left: 25px;
+}
+
+#loginInfo
+{
+	display: flex;
+	width: 204px;
+	height: 24px;
+	background-color: #0f0e15;
+	margin-left: auto;
+	margin-right: 25px;
+}
+
+#box
+{
+	width: 1000px;
+	height: 5px;
+	background-color: #0f0e15;
+}
+
+#hero
+{
+	margin-top: 25px;
+	padding-bottom: 25px;
+	display: flex;
+	flex-direction: row;
+  	justify-content: flex-start;
+}
+
+.welcome
+{
+	margin: auto;
+	width: 230px;
+	height: 50px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+}
+
+#heroImage
+{
+	width: 1000px;
+	height: 308px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+}
+
+#heroText
+{
+	margin: auto;
+	width: 970px;
+	height: 196px;
+	background-color: #0f0e15;
+	margin-top: 25px;
+}
+
+.imageGallery1
+{
+	margin-top: 25px;
+	display: flex;
+	flex-direction: row;
+  	justify-content: flex-start;
+}
+
+#topLeft
+{
+	height: 286px;
+	width: 498px;
+	margin-right: auto;
+	background-color: #0f0e15;
+}
+
+#topRight
+{
+	height: 286px;
+	width: 498px;
+	margin-left: auto;
+	background-color: #0f0e15;
+}
+
+.imageGallery2 
+{
+	display: flex;
+	flex-direction: row;
+  	justify-content: flex-start;
+  	margin-top: 5px;
+}
+
+#bottomLeft
+{
+	height: 286px;
+	width: 498px;
+	margin-right: auto;
+	background-color: #0f0e15;
+}
+
+#bottomRight
+{
+	height: 286px;
+	width: 498px;
+	margin-left: auto;
+	background-color: #0f0e15;
+}
+
+.learn
+{
+	display: flex;
+	flex-direction: row;
+  	justify-content: flex-start;
+}
+
+.learnMore
+{
+	margin-left: 25px;
+	width: 230px;
+	height: 50px;
+	background-color: #0f0e15;
+}
+
+#learnMoreText
+{
+	margin: auto;
+	width: 970px;
+	height: 196px;
+	background-color: #0f0e15;
+	margin-bottom: 25px;
+}
